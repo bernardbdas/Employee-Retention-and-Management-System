@@ -1,0 +1,5 @@
+- Inventory Management System
+- Employee Management and Retention System
+- Health Management System
+- Renewable Energy and Resource Management System
+- Web IDE
