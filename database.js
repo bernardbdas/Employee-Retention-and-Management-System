@@ -1,10 +1,10 @@
 const { Client } = require('pg')
     //psql --host=hrms-db.c1mpcwlijwa0.ap-south-1.rds.amazonaws.com --port=5432 --username=adminUser --password --dbname=hrms
 const client = new Client({
-    host: "hrms-db.c1mpcwlijwa0.ap-south-1.rds.amazonaws.com",
-    user: "adminUser",
+    host: "43.204.46.223",
+    user: "postgres",
     port: 5432,
-    password: "Team8*emp",
+    password: "nicePassword",
     database: "hrms"
 })
 client.connect();
