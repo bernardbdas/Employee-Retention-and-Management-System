@@ -1,0 +1,23 @@
+{
+  "name": "employee-retention-and-management-system",
+  "version": "1.0.0",
+  "description": "&nbsp;\r 1. Employee Detail and Payroll Management\r 2. Employee Retention\r 3. Performance Management and Appraisal",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardbdas/Employee-Retention-and-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardbdas/Employee-Retention-and-Management-System/issues"
+  },
+  "homepage": "https://github.com/bernardbdas/Employee-Retention-and-Management-System#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
