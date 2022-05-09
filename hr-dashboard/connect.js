@@ -12,6 +12,6 @@ client.connect(function(err) {
     console.log("Connected!");
 });
 
-client.query(`\dt+`)
+client.query(`SE`)
     //client.end();
     //console.log("Connection Terminated.");
